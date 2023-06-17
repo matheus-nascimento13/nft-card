@@ -14,5 +14,6 @@
   },
   "devDependencies": {
     "sass": "^1.63.3"
-  }
+  },
+  "keywords": []
 }
